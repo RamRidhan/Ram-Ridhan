@@ -1,4 +1,4 @@
-# Ram-Ridhan-Profile
+# Ram-Ridhan
 Hi, I'm Ram 👋
 
 I'm a graduate data scientist currently completing an MSc in Data Science at LSE.
